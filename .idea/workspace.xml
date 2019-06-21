@@ -1,0 +1,959 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="18ae3b97-ffc1-412b-ac2e-088194d358de" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/xc-framework-parent/target/" />
+    <ignored path="$PROJECT_DIR$/xc-framework-utils/target/" />
+    <ignored path="$PROJECT_DIR$/xc-framework-common/target/" />
+    <ignored path="$PROJECT_DIR$/xc-framework-model/target/" />
+    <ignored path="$PROJECT_DIR$/xc-service-api/target/" />
+    <ignored path="$PROJECT_DIR$/xc-service-manage-cms/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/ManageCmsApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="388">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
+              <folding>
+                <element signature="e#737#738#0" expanded="true" />
+                <element signature="e#808#809#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/service/CmsPageService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="47" selection-start-line="47" selection-end-line="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/web/controller/CmsPageController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="40" column="34" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xc-framework-common/src/main/java/com/thtf/framework/exception/ExceptionCast.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>spring-boot.version</find>
+      <find>{mysql-connector-java.version</find>
+      <find>xuecheng</find>
+      <find>/example/table</find>
+      <find>/example</find>
+      <find>@/views/404</find>
+      <find>permission</find>
+      <find>mock</find>
+      <find>p</find>
+      <find>utils</find>
+      <find>sysConfig</find>
+      <find>Dashboard</find>
+      <find>dialogFormVisible</find>
+      <find>back</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\eduservice\vue-admin-template-master</dir>
+      <dir>C:\eduservice\vue-admin-template</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/vue-admin-template" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/vue-admin-template/src/module/home/page/index.vue" />
+        <option value="$PROJECT_DIR$/vue-admin-template/src/main.js" />
+        <option value="$PROJECT_DIR$/vue-admin-template/src/components/SvgIcon/index.vue" />
+        <option value="$PROJECT_DIR$/vue-admin-template/src/components/Hamburger/index.vue" />
+        <option value="$PROJECT_DIR$/vue-admin-template/src/module/cms/api/cms.js" />
+        <option value="$PROJECT_DIR$/xc-service-manage-cms/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/xc-service-api/src/main/java/com/xuecheng/api/config/Swagger2Configuration.java" />
+        <option value="$PROJECT_DIR$/vue-admin-template/src/common/utils.js" />
+        <option value="$PROJECT_DIR$/vue-admin-template/src/base/api/public.js" />
+        <option value="$PROJECT_DIR$/vue-admin-template/vue.config.js" />
+        <option value="$PROJECT_DIR$/vue-admin-template/src/module/cms/page/page_list.vue" />
+        <option value="$PROJECT_DIR$/vue-admin-template/src/components/Breadcrumb/index.vue" />
+        <option value="$PROJECT_DIR$/vue-admin-template/src/module/home/router/index.js" />
+        <option value="$PROJECT_DIR$/vue-admin-template/src/module/cms/router/index.js" />
+        <option value="$PROJECT_DIR$/vue-admin-template/src/layout/components/AppMain.vue" />
+        <option value="$PROJECT_DIR$/eladmin-qd-master/build/webpack.dev.conf.js" />
+        <option value="$PROJECT_DIR$/eladmin-qd-master/config/dev.env.js" />
+        <option value="$PROJECT_DIR$/eladmin-qd-master/package.json" />
+        <option value="$PROJECT_DIR$/eladmin-qd-master/src/utils/public.js" />
+        <option value="$PROJECT_DIR$/eladmin-qd-master/src/api/cms.js" />
+        <option value="$PROJECT_DIR$/eladmin-qd-master/src/views/page/page_html.vue" />
+        <option value="$PROJECT_DIR$/eladmin-qd-master/src/views/page/page_list.vue" />
+        <option value="$PROJECT_DIR$/eladmin-qd-master/src/views/page/page_edit.vue" />
+        <option value="$PROJECT_DIR$/eladmin-qd-master/src/views/page/page_add.vue" />
+        <option value="$PROJECT_DIR$/eladmin-qd-master/config/index.js" />
+        <option value="$PROJECT_DIR$/eladmin-qd-master/src/views/login/index.vue" />
+        <option value="$PROJECT_DIR$/xc-framework-model/src/main/java/com/thtf/framework/domain/cms/request/QueryPageRequest.java" />
+        <option value="$PROJECT_DIR$/xc-ui-pc-sysmanage/src/base/components/breadcrumb.vue" />
+        <option value="$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/dao/CmsPageRepository.java" />
+        <option value="$PROJECT_DIR$/xc-ui-pc-sysmanage/src/module/home/router/index.js" />
+        <option value="$PROJECT_DIR$/xc-ui-pc-sysmanage/src/base/components/head.vue" />
+        <option value="$PROJECT_DIR$/xc-ui-pc-sysmanage/src/module/home/page/home.vue" />
+        <option value="$PROJECT_DIR$/xc-ui-pc-sysmanage/src/module/cms/router/index.js" />
+        <option value="$PROJECT_DIR$/xc-ui-pc-sysmanage/src/module/cms/page/page_html.vue" />
+        <option value="$PROJECT_DIR$/xc-ui-pc-sysmanage/index.html" />
+        <option value="$PROJECT_DIR$/xc-ui-pc-sysmanage/src/main.js" />
+        <option value="$PROJECT_DIR$/xc-ui-pc-sysmanage/node_modules/element-ui/lib/theme-chalk/index.css" />
+        <option value="$PROJECT_DIR$/xc-ui-pc-sysmanage/package.json" />
+        <option value="$PROJECT_DIR$/xc-ui-pc-sysmanage/src/assets/iconfont/iconfont.css" />
+        <option value="$PROJECT_DIR$/xc-ui-pc-sysmanage/src/module/cms/page/page_edit.vue" />
+        <option value="$PROJECT_DIR$/xc-service-api/src/main/java/com/xuecheng/api/cms/CmsPageControllerApi.java" />
+        <option value="$PROJECT_DIR$/xc-ui-pc-sysmanage/src/module/cms/api/cms.js" />
+        <option value="$PROJECT_DIR$/xc-ui-pc-sysmanage/src/module/cms/page/page_list.vue" />
+        <option value="$PROJECT_DIR$/xc-ui-pc-sysmanage/src/module/cms/page/page_add.vue" />
+        <option value="$PROJECT_DIR$/xc-framework-common/src/main/java/com/thtf/framework/model/response/CommonCode.java" />
+        <option value="$PROJECT_DIR$/xc-framework-common/src/main/java/com/thtf/framework/exception/ExceptionCatch.java" />
+        <option value="$PROJECT_DIR$/xc-framework-common/src/main/java/com/thtf/framework/exception/CustomException.java" />
+        <option value="$PROJECT_DIR$/xc-framework-common/src/main/java/com/thtf/framework/exception/ExceptionCast.java" />
+        <option value="$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/ManageCmsApplication.java" />
+        <option value="$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/web/controller/CmsPageController.java" />
+        <option value="$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/service/CmsPageService.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="xc-framework-common" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="xc-framework-common" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="xc-framework-parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="xc-framework-parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="210" />
+    <option name="y" value="276" />
+    <option name="width" value="1620" />
+    <option name="height" value="848" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="eduservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eduservice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eduservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eduservice" type="462c0819:PsiDirectoryNode" />
+              <item name="xc-framework-common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eduservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eduservice" type="462c0819:PsiDirectoryNode" />
+              <item name="xc-framework-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eduservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eduservice" type="462c0819:PsiDirectoryNode" />
+              <item name="xc-framework-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eduservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eduservice" type="462c0819:PsiDirectoryNode" />
+              <item name="xc-framework-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eduservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eduservice" type="462c0819:PsiDirectoryNode" />
+              <item name="xc-service-manage-cms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eduservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eduservice" type="462c0819:PsiDirectoryNode" />
+              <item name="xc-service-manage-cms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eduservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eduservice" type="462c0819:PsiDirectoryNode" />
+              <item name="xc-service-manage-cms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eduservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eduservice" type="462c0819:PsiDirectoryNode" />
+              <item name="xc-service-manage-cms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eduservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eduservice" type="462c0819:PsiDirectoryNode" />
+              <item name="xc-service-manage-cms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="manage_cms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eduservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eduservice" type="462c0819:PsiDirectoryNode" />
+              <item name="xc-service-manage-cms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="manage_cms" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eduservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eduservice" type="462c0819:PsiDirectoryNode" />
+              <item name="xc-service-manage-cms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="manage_cms" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/xc-framework-common/src/main/java/com/thtf/framework/model/response" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\eduservice\xc-framework-common\src\main\java\com\thtf\framework\model\response" />
+      <recent name="C:\eduservice\xc-framework-common\src\main\java\com\thtf\framework\exception" />
+      <recent name="C:\eduservice\xc-ui-pc-sysmanage\static\images" />
+      <recent name="C:\eduservice\xc-ui-pc-sysmanage\src\assets" />
+      <recent name="C:\eduservice\xc-ui-pc-sysmanage\src\assets\iconfont" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\eduservice\xc-ui-pc-sysmanage\static\images" />
+      <recent name="C:\eduservice\xc-ui-pc-sysmanage\src\assets" />
+      <recent name="C:\eduservice\vue-admin-template\public" />
+      <recent name="C:\eduservice\xc-service-manage-cms\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ManageCmsApplication">
+    <configuration name="CmsPageRepositoryTest.findAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xc-service-manage-cms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuecheng.manage_cms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xuecheng.manage_cms" />
+      <option name="MAIN_CLASS_NAME" value="com.xuecheng.manage_cms.CmsPageRepositoryTest" />
+      <option name="METHOD_NAME" value="findAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CmsPageRepositoryTest.findPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="xc-service-manage-cms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuecheng.manage_cms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xuecheng.manage_cms" />
+      <option name="MAIN_CLASS_NAME" value="com.xuecheng.manage_cms.CmsPageRepositoryTest" />
+      <option name="METHOD_NAME" value="findPage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManageCmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="xc-service-manage-cms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuecheng.manage_cms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.manage_cms.ManageCmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dev (1)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/eladmin-qd-master/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/xc-ui-pc-sysmanage/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ManageCmsApplication" />
+        <item itemvalue="npm.dev" />
+        <item itemvalue="npm.dev (1)" />
+        <item itemvalue="JUnit.CmsPageRepositoryTest.findPage" />
+        <item itemvalue="JUnit.CmsPageRepositoryTest.findAll" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18ae3b97-ffc1-412b-ac2e-088194d358de" name="Default Changelist" comment="" />
+      <created>1559572238841</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559572238841</updated>
+      <workItem from="1559572240038" duration="3733000" />
+      <workItem from="1559628699210" duration="3336000" />
+      <workItem from="1559713770998" duration="8128000" />
+      <workItem from="1559722721571" duration="188000" />
+      <workItem from="1560474585545" duration="25948000" />
+      <workItem from="1560733841824" duration="1071000" />
+      <workItem from="1560765015901" duration="7578000" />
+      <workItem from="1561016229001" duration="24227000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="CmsPageRepositoryTest_findAll - 2019.06.05 at 14h 18m 31s.xml">
+      <configuration name="CmsPageRepositoryTest.findAll" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CmsPageRepositoryTest_findAll - 2019.06.05 at 14h 19m 56s.xml">
+      <configuration name="CmsPageRepositoryTest.findAll" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CmsPageRepositoryTest_findAll - 2019.06.05 at 14h 22m 25s.xml">
+      <configuration name="CmsPageRepositoryTest.findAll" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CmsPageRepositoryTest_findPage - 2019.06.05 at 14h 25m 31s.xml">
+      <configuration name="CmsPageRepositoryTest.findPage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CmsPageRepositoryTest_findPage - 2019.06.05 at 14h 26m 33s.xml">
+      <configuration name="CmsPageRepositoryTest.findPage" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="74209000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49579832" visible="true" weight="0.32889125" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="npm" order="6" sideWeight="0.5042017" side_tool="true" weight="0.26764706" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32913166" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35683298" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39696312" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Spring" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.68546635" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.3253796" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32972324" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.32912153" />
+      <window_info anchor="right" id="Bean Validation" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/xc-service-manage-cms/src/test/java/com/xuecheng/manage_cms/CmsPageRepositoryTest.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/xc-service-manage-cms/src/test/java/com/xuecheng/manage_cms/CmsPageRepositoryTest.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/xc-ui-pc-sysmanage/src/module/home/page/home.vue</url>
+          <line>4</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/eladmin-qd-master/src/utils/validate.js" />
+    <entry file="file://$PROJECT_DIR$/eladmin-qd-master/src/store/index.js" />
+    <entry file="file://$PROJECT_DIR$/eladmin-qd-master/src/store/getters.js" />
+    <entry file="file://$PROJECT_DIR$/eladmin-qd-master/src/store/modules/permission.js" />
+    <entry file="file://$PROJECT_DIR$/eladmin-qd-master/src/store/modules/app.js" />
+    <entry file="file://$PROJECT_DIR$/eladmin-qd-master/src/utils/public.js" />
+    <entry file="file://$PROJECT_DIR$/xc-framework-model/src/main/java/com/thtf/framework/domain/cms/request/QueryPageRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="21" column="28" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-ui-pc-sysmanage/src/base/components/HelloWorld.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-ui-pc-sysmanage/src/components/HelloWorld.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-ui-pc-sysmanage/dist/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-ui-pc-sysmanage/config/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-ui-pc-sysmanage/build/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-ui-pc-sysmanage/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-38" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-ui-pc-sysmanage/static/images/asset-logoIco-white.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/dao/CmsPageRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="30" column="87" selection-start-line="30" selection-start-column="87" selection-end-line="30" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-ui-pc-sysmanage/src/statics/aa.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-ui-pc-sysmanage/src/statics/test.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-ui-pc-sysmanage/src/common/utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3115" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-ui-pc-sysmanage/src/base/components/breadcrumb.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-ui-pc-sysmanage/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-ui-pc-sysmanage/src/base/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+            <element signature="e#174#219#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-ui-pc-sysmanage/src/assets/iconfont/demo_index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="93" column="40" lean-forward="true" selection-start-line="93" selection-start-column="27" selection-end-line="93" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-ui-pc-sysmanage/src/module/home/api/home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-ui-pc-sysmanage/src/assets/iconfont/demo.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-ui-pc-sysmanage/src/module/home/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-ui-pc-sysmanage/src/base/components/foot.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-ui-pc-sysmanage/static/images/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-ui-pc-sysmanage/src/base/components/head.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+          <folding>
+            <element signature="e#107#113#0" expanded="true" />
+            <element signature="e#113#119#0" expanded="true" />
+            <element signature="e#119#125#0" expanded="true" />
+            <element signature="e#125#131#0" expanded="true" />
+            <element signature="e#131#137#0" expanded="true" />
+            <element signature="e#1945#1979#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-ui-pc-sysmanage/src/module/home/page/home.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="53" column="66" selection-start-line="53" selection-start-column="66" selection-end-line="53" selection-end-column="66" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#template#0;n#li#0;n#ul#0;n#aside#0;n#el-col#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#ul#0;n#template#0;n#li#0;n#ul#0;n#aside#0;n#el-col#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#1;n#ul#0;n#aside#0;n#el-col#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="e#3339#3386#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-ui-pc-sysmanage/src/module/cms/page/page_html.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="97" column="15" selection-start-line="97" selection-start-column="15" selection-end-line="97" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-framework-model/src/main/java/com/thtf/framework/domain/cms/CmsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-24">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-ui-pc-sysmanage/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="37" lean-forward="true" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-ui-pc-sysmanage/src/module/cms/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-ui-pc-sysmanage/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#140#161#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-ui-pc-sysmanage/node_modules/element-ui/lib/theme-chalk/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
+          <folding>
+            <element signature="e#145072#145211#2" expanded="true" />
+            <element signature="e#147456#147595#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-ui-pc-sysmanage/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-ui-pc-sysmanage/src/assets/iconfont/iconfont.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-ui-pc-sysmanage/src/module/cms/page/page_edit.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="153" selection-start-line="1" selection-start-column="153" selection-end-line="1" selection-end-column="153" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-framework-common/src/main/java/com/thtf/framework/model/response/ResponseResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-ui-pc-sysmanage/src/module/cms/api/cms.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="26" column="46" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-service-api/src/main/java/com/xuecheng/api/cms/CmsPageControllerApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-ui-pc-sysmanage/src/module/cms/page/page_list.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="90" column="25" lean-forward="true" selection-start-line="90" selection-start-column="25" selection-end-line="90" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#el-form#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-input#0;n#el-form#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-pagination#0;n#el-col#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-framework-model/src/main/java/com/thtf/framework/domain/order/response/CreateOrderResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-ui-pc-sysmanage/src/module/cms/page/page_add.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="130" column="25" selection-start-line="130" selection-start-column="25" selection-end-line="130" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-framework-common/src/main/java/com/thtf/framework/model/response/CommonCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-framework-common/src/main/java/com/thtf/framework/exception/CustomException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+          <folding>
+            <element signature="e#414#415#0" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-framework-common/src/main/java/com/thtf/framework/exception/ExceptionCatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="35" column="54" selection-start-line="35" selection-start-column="54" selection-end-line="35" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-framework-common/src/main/java/com/thtf/framework/exception/ExceptionCast.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/ManageCmsApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="e#737#738#0" expanded="true" />
+            <element signature="e#808#809#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/web/controller/CmsPageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="40" column="34" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xc-service-manage-cms/src/main/java/com/xuecheng/manage_cms/service/CmsPageService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>xc-service-api</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
