@@ -31,6 +31,13 @@ public class CmsPageController implements CmsPageControllerApi {
     @Autowired
     private CmsPageService cmsPageService;
 
+    /**
+     * 页面列表分页查询
+     * @param page
+     * @param size
+     * @param queryPageRequest
+     * @return
+     */
     @Override
     @ApiImplicitParams({
             @ApiImplicitParam(name="page",value = "页码",required=true,paramType="query",dataType="int"),
@@ -41,12 +48,22 @@ public class CmsPageController implements CmsPageControllerApi {
         return cmsPageService.findList(page, size, queryPageRequest);
     }
 
+    /**
+     * 页面添加
+     * @param cmsPage
+     * @return
+     */
     @Override
     @PostMapping("/page")
     public CmsPageResult add(@RequestBody CmsPage cmsPage) {
         return cmsPageService.add(cmsPage);
     }
 
+    /**
+     * 根据id查询页面信息
+     * @param id
+     * @return
+     */
     @Override
     @ApiImplicitParams({
             @ApiImplicitParam(name="id",value = "页面ID",required=true,paramType="path",dataType="String"),
@@ -56,6 +73,12 @@ public class CmsPageController implements CmsPageControllerApi {
         return cmsPageService.getById(id);
     }
 
+    /**
+     * 修改页面信息
+     * @param id
+     * @param cmsPage
+     * @return
+     */
     @Override
     @ApiImplicitParams({
             @ApiImplicitParam(name="id",value = "页面ID",required=true,paramType="path",dataType="String"),
@@ -65,6 +88,11 @@ public class CmsPageController implements CmsPageControllerApi {
         return cmsPageService.update(id,cmsPage);
     }
 
+    /**
+     * 删除页面信息
+     * @param id
+     * @return
+     */
     @Override
     @ApiImplicitParams({
             @ApiImplicitParam(name="id",value = "页面ID",required=true,paramType="path",dataType="String"),
@@ -73,4 +101,5 @@ public class CmsPageController implements CmsPageControllerApi {
     public ResponseResult delete(@PathVariable("id") String id) {
         return cmsPageService.delete(id);
     }
+
 }

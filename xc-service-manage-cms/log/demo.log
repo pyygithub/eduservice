@@ -1,0 +1,8 @@
+2019-06-24 09:45:06,586 INFO (StartupInfoLogger.java:50)- Starting CmsConfigTest on DESKTOP-8N156L9 with PID 5404 (started by pyy in C:\eduservice\xc-service-manage-cms)
+2019-06-24 09:45:06,587 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2019-06-24 09:45:06,588 INFO (SpringApplication.java:675)- No active profile set, falling back to default profiles: default
+2019-06-24 09:45:14,197 INFO (StartupInfoLogger.java:59)- Started CmsConfigTest in 8.417 seconds (JVM running for 9.991)
+2019-06-24 17:16:44,353 INFO (StartupInfoLogger.java:50)- Starting CmsConfigTest on DESKTOP-8N156L9 with PID 12948 (started by pyy in C:\eduservice\xc-service-manage-cms)
+2019-06-24 17:16:44,354 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2019-06-24 17:16:44,356 INFO (SpringApplication.java:675)- No active profile set, falling back to default profiles: default
+2019-06-24 17:16:54,401 INFO (StartupInfoLogger.java:59)- Started CmsConfigTest in 10.897 seconds (JVM running for 12.968)

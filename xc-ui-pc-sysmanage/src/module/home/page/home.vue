@@ -48,13 +48,7 @@
       <!-- 面包屑导航  -->
       <section class="content-container">
         <div class="grid-content bg-purple-left">
-          <el-col :span="24" class="breadcrumb-container">
-            <el-breadcrumb separator="/" >
-              <el-breadcrumb-item :to="{ path: '/' }"><i class="iconfont icon-home"></i>首页</el-breadcrumb-item>
-              <el-breadcrumb-item><strong>{{$route.meta.parentName}}</strong></el-breadcrumb-item>
-              <el-breadcrumb-item><strong>{{$route.name}}</strong></el-breadcrumb-item>
-            </el-breadcrumb>
-          </el-col>
+
           <el-col :span="24" class="content-wrapper">
             <transition name="fade" mode="out-in">
               <router-view></router-view>

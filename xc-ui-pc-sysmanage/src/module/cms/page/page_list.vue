@@ -1,5 +1,13 @@
 <template>
   <div>
+      <!-- 面包屑导航  -->
+      <el-col :span="24" class="breadcrumb-container" style="margin-bottom:15px">
+        <el-breadcrumb separator="/" >
+          <el-breadcrumb-item :to="{ path: '/' }">首页</el-breadcrumb-item>
+          <el-breadcrumb-item>{{$route.meta.parentName}}</el-breadcrumb-item>
+          <el-breadcrumb-item>{{$route.name}}</el-breadcrumb-item>
+        </el-breadcrumb>
+      </el-col>
       <!--查询表单-->
       <el-form :model="params" style="margin-bottom: 15px;">
         <!--添加页面-->
@@ -38,32 +46,25 @@
         </el-table-column>
         <el-table-column prop="pageCreateTime" label="创建时间" :formatter="formatCreatetime">
         </el-table-column>
-        <el-table-column label="编辑" width="90">
+        <el-table-column label="操作" width="240">
           <template slot-scope="scope">
             <el-button type="primary"
                        size="small"
                        icon="el-icon-edit"
-                       @click="edit(scope.row.pageId)">编辑
+                       @click="edit(scope.row.pageId)">
             </el-button>
-          </template>
-        </el-table-column>
-        <el-table-column label="删除" width="90">
-          <template slot-scope="scope">
+
             <el-button size="small"
                        icon="el-icon-delete"
                        type="danger"
-                       @click="del(scope.$index, scope.row)">删除
+                       @click="del(scope.$index, scope.row)">
             </el-button>
-          </template>
-        </el-table-column>
-        <el-table-column label="静态化" width="95">
-          <template slot-scope="scope">
-            <el-button size="small" type="primary" icon="el-icon-star-off" plain @click="generateHtml(scope.row.pageId)">静态化</el-button>
-          </template>
-        </el-table-column>
-        <el-table-column label="发布" width="100">
-          <template slot-scope="scope">
-            <el-button size="small" type="primary" icon="el-icon-share"  plain @click="postPage(scope.row.pageId)">发布</el-button>
+
+            <el-button size="small"
+                       icon="el-icon-share"
+                       type="primary"
+                       @click="preview(scope.$index, scope.row)">预览
+            </el-button>
           </template>
         </el-table-column>
       </el-table>
@@ -82,6 +83,7 @@
   import utilApi from '@/common/utils';
   import pageAdd from '@/module/cms/page/page_add.vue'
   import pageEdit from '@/module/cms/page/page_edit.vue'
+  let url = "http://manage.leyou.com"
 
   export default{
     data(){
@@ -130,11 +132,11 @@
         }
         this.addPageVisible= true;
       },
-      generateHtml (id) {
-        this.$router.push({ path: '/cms/page/html/'+id, query:{
-          page: this.pager.page,
-          siteId: this.params.siteId}})
+      //页面预览
+      preview(pageId){
+        window.open(url + "/cms/preview/"+pageId)
       },
+      //发布
       postPage (id) {
         this.$confirm('确认发布该页面吗?', '提示', {
         }).then(() => {
