@@ -1,0 +1,7 @@
+2019-06-24 09:37:39,572 INFO (StartupInfoLogger.java:50)- Starting ManageCmsApplication on DESKTOP-8N156L9 with PID 17404 (C:\eduservice\xc-service-manage-cms\target\classes started by pyy in C:\eduservice)
+2019-06-24 09:37:39,572 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2019-06-24 09:37:39,574 INFO (SpringApplication.java:675)- No active profile set, falling back to default profiles: default
+2019-06-24 09:37:44,559 INFO (StartupInfoLogger.java:59)- Started ManageCmsApplication in 5.69 seconds (JVM running for 7.681)
+2019-06-24 17:29:44,982 INFO (StartupInfoLogger.java:50)- Starting ManageCmsApplication on DESKTOP-8N156L9 with PID 2332 (C:\eduservice\xc-service-manage-cms\target\classes started by pyy in C:\eduservice)
+2019-06-24 17:29:44,984 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2019-06-24 17:29:44,986 INFO (SpringApplication.java:675)- No active profile set, falling back to default profiles: default
